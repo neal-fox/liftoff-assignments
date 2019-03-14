@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+![Wireframe Images](http://drive.google.com/uc?export=view&id=1oa68e6xXebbBN60LLpHRZvfmsPbUKhTk)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Check out the Grayscaled App Project Planner on Github!](https://github.com/neal-fox/grayscaled-app/projects/1)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[Check out the Grayscaled App on Github!](https://github.com/neal-fox/grayscaled-app)
